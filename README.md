@@ -55,12 +55,6 @@ npm
 📂 Project Structure
 Darshan_Ease │ ├── backend │ ├── controllers │ ├── routes │ ├── models │ └── server.js │ ├── frontend │ ├── src │ ├── public │ └── components │ ├── package.json ├── package-lock.json └── README.md
 
-⚙️ Installation
-Clone the repository: git clone https://github.com/Amitsinghyt/Darshan_Ease.git
-⚙️ Installation
-Clone the repository:
-
-git clone https://github.com/Amitsinghyt/Darshan_Ease.git
 
 Go to the project folder:
 
