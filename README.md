@@ -1,4 +1,3 @@
-README
 Darshan_ease
 🌟 Darshan Ease
 GitHub repo size GitHub stars GitHub forks GitHub issues License
@@ -89,3 +88,4 @@ Create a feature branch
 Commit your changes
 Push the branch
 Create a Pull Request
+
