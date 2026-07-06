@@ -1,6 +1,6 @@
-# Darshan-ease
-Temple Darshan Ticket Booking System developed using the MERN Stack (MongoDB, Express.js, React.js, and Node.js) as part of the SmartBridge Skill Wallet Internship 2026.
- Darshan Ease
+README
+Darshan_ease
+🌟 Darshan Ease
 GitHub repo size GitHub stars GitHub forks GitHub issues License
 
 Darshan Ease is a full-stack web application designed to simplify user interaction and provide an efficient platform for managing services and information.
@@ -54,15 +54,6 @@ VS Code
 npm
 📂 Project Structure
 Darshan_Ease │ ├── backend │ ├── controllers │ ├── routes │ ├── models │ └── server.js │ ├── frontend │ ├── src │ ├── public │ └── components │ ├── package.json ├── package-lock.json └── README.md
-
-
-Go to the project folder:
-
-cd Darshan_Ease
-
-Install dependencies:
-
-npm install
 
 ▶️ Run the Project
 Start backend server:
